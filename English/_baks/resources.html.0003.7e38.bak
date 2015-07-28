@@ -1,0 +1,209 @@
+<html>
+<head>
+<title>Las Colinas OBGYN - News, Events, &amp; Publications</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+#dropdown {
+	position:absolute;
+	left:97px;
+	top:107px;
+	width:73px;
+	height:16px;
+	z-index:3;
+	visibility: hidden;
+}
+#navbar {
+	position:relative;
+	z-index:2;
+}
+
+#hide {
+	position:absolute;
+	left:80px;
+	top:86px;
+	width:290px;
+	height:430px;
+	z-index:1;
+	visibility: hidden;
+}
+-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+//-->
+</script>
+<link href="../lascolinasobgyn.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.style1 {
+	font-family: "times new roman";
+	font-size: 13px;
+}
+-->
+</style></head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('../images/ob_ovr.GIF','../images/gen_ovr.GIF','../images/off_ovr.GIF','../images/in_aboutovr.gif','../images/in_servicesovr.gif','../images/in_newovr.gif','../images/in_facilitiesovr.gif','../images/in_referralsovr.gif','../images/in_resourcesovr.gif','../images/in_contactovr.gif','../images/subovr_01.GIF','../images/subovr_02.GIF','../images/subovr_03.GIF','../images/subovr_04.GIF','../images/subovr_05.GIF','../images/subovr_06.GIF','../images/subovr_07.GIF','../images/subovr_08.GIF','../images/subovr_09.GIF','../images/subovr_10.GIF','../images/subovr_11.GIF','../images/subovr_12.GIF','../images/subovr_13.GIF','../images/subovr_15.GIF','../images/subovr_16.GIF','../images/subovr_17.GIF','../images/subovr_18.GIF','../images/subovr_19.GIF','../images/in_referrals.gif','../images/in_resources.gif')">
+<!-- ImageReady Slices (DrZWebsiteInside2.psd) -->
+<div id="dropdown"><a href="obstetrics.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image32','','../images/subovr_01.GIF',1)"><img src="../images/subup_01.GIF" alt="Obstetrics" name="Image32" width="210" height="19" border="0"></a><a href="general_gynecology.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image33','','../images/subovr_02.GIF',1)"><img src="../images/subup_02.GIF" alt="General Gynecology" name="Image33" width="210" height="16" border="0"></a><a href="office_hysteroscopy.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image34','','../images/subovr_03.GIF',1)"><img src="../images/subup_03.GIF" alt="Office Hysteroscopy" name="Image34" width="210" height="16" border="0"></a><a href="sono_hysteroscopy.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image31','','../images/subovr_04.GIF',1)"><img src="../images/subup_04.GIF" alt="Sono Hysteroscopy" name="Image31" width="210" height="16" border="0"></a><a href="hysteroscopic_sterilization.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image35','','../images/subovr_05.GIF',1)"><img src="../images/subup_05.GIF" alt="Hysteroscopic Sterilization" name="Image35" width="210" height="16" border="0"></a><a href="endometrial_ablation.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image36','','../images/subovr_06.GIF',1)"><img src="../images/subup_06.GIF" alt="Endometrial Ablation" name="Image36" width="210" height="16" border="0"></a><a href="urinary_incontinence.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image37','','../images/subovr_07.GIF',1)"><img src="../images/subup_07.GIF" alt="Urinary Incontinence" name="Image37" width="210" height="16" border="0"></a><a href="anal_incontinence.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image38','','../images/subovr_08.GIF',1)"><img src="../images/subup_08.GIF" alt="Anal Incontinence" name="Image38" width="210" height="16" border="0"></a><a href="anal_sonography.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image46','','../images/subovr_09.GIF',1)"><img src="../images/subup_09.GIF" alt="Anal Sonography" name="Image46" width="210" height="16" border="0"></a><a href="pelvic_and_abdominal_ultrasonography.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image47','','../images/subovr_10.GIF',1)"><img src="../images/subup_10.GIF" alt="Pelvic and Abdominal Ultrasonography" name="Image47" width="210" height="32" border="0"></a><a href="laser_for_cervix.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image48','','../images/subovr_11.GIF',1)"><img src="../images/subup_11.GIF" alt="Laser for Cervix and Veneral Warts" name="Image48" width="210" height="32" border="0"></a><a href="loop_electrosurgery.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image49','','../images/subovr_12.GIF',1)"><img src="../images/subup_12.GIF" alt="Loop Electrosurgery" name="Image49" width="210" height="16" border="0"></a><a href="evaluation_of_abnormal.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image50','','../images/subovr_13.GIF',1)"><img src="../images/subup_13.GIF" alt="Evaluation of Abnormal Bleeding" name="Image50" width="210" height="32" border="0"></a><a href="pop_repair.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image100','','../images/subovr_13b.GIF',1)"><img src="../images/subup_13b.GIF" alt="Pelvic Organ Prolapse Repair" name="Image100" width="210" height="16" border="0"></a><a href="vaginal_reconstruction.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image51','','../images/subovr_15.GIF',1)"><img src="../images/subup_14.GIF" alt="Vaginal Reconstruction" name="Image51" width="210" height="16" border="0"></a><a href="constipation.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image52','','../images/subovr_16.GIF',1)"><img src="../images/subup_15.GIF" alt="Constipation, Lower Back Pain and Sexual Dysfunction" name="Image52" width="210" height="32" border="0"></a><a href="biofeedback.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image53','','../images/subovr_17.GIF',1)"><img src="../images/subup_16.GIF" alt="Biofeedback and Physical Therapy" name="Image53" width="210" height="32" border="0"></a><a href="endometrial_and_interstitial_cystitis.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image54','','../images/subovr_18.GIF',1)"><img src="../images/subup_17.GIF" alt="Endometriosis and Interstitial Cystitis" name="Image54" width="210" height="32" border="0"></a><a href="hysterectomy_alternatives.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image55','','../images/subovr_19.GIF',1)"><img src="../images/subup_18.GIF" alt="Hysterectomy Alternatives" name="Image55" width="210" height="20" border="0"></a></div>
+<div id="hide"><a href="javascript:;" onMouseOver="MM_showHideLayers('dropdown','','hide','hide','','hide')"><img src="../images/transparent.gif" width="291" height="431" border="0"></a></div>
+
+<table id="Table_01" width="838" height="560" border="0" cellpadding="0" cellspacing="0">
+  <!--DWLayoutTable-->
+	<tr>
+		<td height="89" colspan="2">
+			<a href="index_English.html">
+				<img src="../images/banner_int.gif" width="837" height="89" border="0" alt="Banner"></a></td>
+        <td width="1"></td>
+	</tr>
+	<tr>
+		<td width="621" height="19" valign="top" ><div id="navbar"><img src="../images/navspacer_01.gif" width="24" height="18" alt=""><a href="about.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image39','','../images/in_aboutovr.gif',1);MM_showHideLayers('dropdown','','hide','hide','','hide')"><img src="../images/in_about.gif" alt="About Us" name="Image39" width="73" height="18" border="0"></a><a href="services.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image40','','../images/in_servicesovr.gif',1);MM_showHideLayers('dropdown','','show','hide','','show')"><img src="../images/in_services.gif" alt="Services" name="Image40" width="73" height="18" border="0"></a><a href="new_patient.html" onMouseOver="MM_swapImage('Image41','','../images/in_newovr.gif',1);MM_showHideLayers('dropdown','','hide','hide','','hide')" onMouseOut="MM_swapImgRestore()"><img src="../images/in_new.gif" alt="New Patients" name="Image41" width="105" height="18" border="0"></a><a href="facilities.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image42','','../images/in_facilitiesovr.gif',1);MM_showHideLayers('dropdown','','hide','hide','','hide')"><img src="../images/in_facilities.gif" alt="Facilities" name="Image42" width="81" height="18" border="0"></a><a href="referrals.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image43','','../images/in_referralsovr.gif',1)"><img src="../images/in_referrals.gif" alt="Referrals" name="Image43" width="85" height="18" border="0"></a><a href="resources.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image44','','../images/in_resources.gif',1)"><img src="../images/in_resourcesovr.gif" alt="Resources" name="Image44" width="86" height="18" border="0"></a><a href="contact.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image45','','../images/in_contactovr.gif',1)"><img src="../images/in_contact.gif" alt="Contact Us" name="Image45" width="94" height="18" border="0"></a></div></td>
+		<td width="216" rowspan="2" valign="top">
+			<a href="http://www.americanmedicalsystems.com/womens_health.html" target="_blank">
+		<img src="../images/ams_image.gif" width="216" border="0" alt="American Medical Systems"></a></td>
+        <td></td>
+	</tr>
+	<tr>
+	  <td rowspan="2" class="innerbodystyle">
+		  <p align="left" class="header"><img src="../images/resources.jpg" alt="Image 2" width="324" height="216" align="right" class="images"><strong>RESOURCES</strong></p>
+            <p >You can count on Las Colinas OB/GYN to keep you informed! Check back frequently for News, Events, and Published Work from our associates. </p>
+            <ul>
+              <li><a href="#pubs">Publications</a></li>
+              <li><a href="#videos">Videos</a></li>
+              <li><a href="#links">Helpful Links</a></li>
+              <li><a href="#satpat">Satisfied Patients</a> </li>
+            </ul>            
+            <p align="left" class="header"><strong><a name="pubs"></a>PUBLICATIONS</strong></p>
+            <p ><a href="publications/QualityofLifeArticle.pdf" target="_blank">Quality of Life</a> </p>
+            <p ><a href="publications/Zavaleta_Profile.pdf" target="_blank">Beyond Medicine</a><em><br>
+    Dr. John Zavaleta Shares Keys to a Successful Medical Practice </em></p>
+            <p ><em>Advances in Women's Health Series</em></p>
+            <ul>
+              <li><a href="publications/AdvancesArticle1.pdf" target="_blank">Cryogenic Therapy &#8212; A New Alternative to Hysterectomy</a></li>
+              <li><a href="publications/AdvancesArticle2.pdf" target="_blank">A New Surgical Approach to Female Stress Urinary Incontinence Now Under Way</a></li>
+              <li> <a href="publications/AdvancesArticle3.pdf" target="_blank">New Minimally Invasive Procedure Delivers Permanent Sterilization</a></li>
+              <li> <a href="publications/AdvancesArticle4.pdf" target="_blank">Reclaiming Your Body</a></li>
+        </ul>            
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="http://www.lifescript.com/channels/healthy_living/Health_Conditions/6_std_myths_debunked.asp" target="_blank">6 STD Myths Debunked</a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="http://www.obgynnews.com/article/PIIS0029743707708789/fulltext" target="_blank">Flaxseed May Reduce Hot-Flash Frequency</a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="http://www.obgynnews.com/article/PIIS0029743707708674/fulltext" target="_blank">Helping Patients Cope With PCOS</a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="publications/Endometriosis_English.pdf" target="_blank">What You Should Know About Endometriosis</a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="publications/ChronicPelvicPain.pdf" target="_blank">Chronic Pelvic Pain: Endometriosis and Intersitial Cystitis</a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="publications/WomensHealthUpdate.pdf" target="_blank">Focus on Bacterial Vaginosis, Prenatal Nutrition, and Anemia</a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="publications/BacterialVaginosis.pdf" target="_blank">What You Should Know About Bacterial Vaginosis</a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="publications/BacterialVaginosis_DiagnosisAndTherapy.pdf" target="_blank">Bacterial Vaginosis: Diagnosis and Therapy</a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="publications/FecalIncontinenceEnglish.pdf" target="_blank">What You Should Know About Fecal Incontinence</a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="publications/HPVbrochureEnglish.pdf" target="_blank">Get the HPV Test for Peace of Mind:Protect Yourself Against Cervical Cancer</a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="publications/AlternativeForPOP.pdf" target="_blank">Alternative for POP</a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="http://regardinghealth.com/nam/RHO/2007/05/Article.aspx?bmkEMC=29580" target="_blank">5 Simple Strategies to be Stress Free</a> </p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="http://www.regardinghealth.com/nam/RHO/2007/05/Article.aspx?bmkEMC=29578" target="_blank">Hot Flash Happy Pills? Antidepressants and Menopause </a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="http://www.regardinghealth.com/nam/RHO/2007/07/Article.aspx?bmkEMC=30891" target="_blank">Surviving the Menopause Blues</a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="publications/HTA_English.pdf">Your Period Does Not Have to be a Sentence. Learn About Hydro ThermAblator (HTA).</a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="publications/TheFemalePatient.pdf">The Female Patient: Your Guide to Total Health Care</a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="http://www.lifescript.com/channels/healthy_living/Womens_Health/get_out_of_your_head_and_into_bed.asp">Get Out of Your Head...and Into Bed!</a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="http://www.lifescript.com/channels/well_being/Meditations_Motivations/sex_after_kids.asp?page=1" target="_blank">Sex After Kids: Take Your Love Life From Fizzling to Sizzling </a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="http://www.lifescript.com/channels/well_being/Meditations_Motivations/keeping_things_hot_after_you_tie_the_knot.asp" target="_blank">Keeping Things Hot After You Tie the Knot: 10 Ways to Make Your Love Life Sizzle </a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="http://www.lifescript.com/channels/diet_fitness/Other_Tips/slim_down_with_the_sex_diet.asp">Slim Down with the Sex Diet</a></p>
+            <p style="margin-top: 0; margin-bottom: 0;"><a href="http://www.lifescript.com/channels/well_being/Meditations_Motivations/dish_up_a_big_plate_of_o.asp">A Plateful of Pleasure: Diet Your Way to Better Orgasms</a> </p>
+            <p style="margin-top: 0;"><a href="http://www.lifescript.com/channels/healthy_living/Womens_Health/how_to_be_multi-orgasmic.asp">How to Be Multi-Orgasmic: Satisfaction Guaranteed...Again and Again </a></p>
+            <p><span class="header"><strong><a name="videos"></a>VIDEOS</strong></span></p>
+<p style="margin-bottom: 0;"><img src="../images/essure_still.jpg" width="150" height="54"> </p>
+<p style="margin-top: 0; margin-bottom: 0;">Click a link below to view an informative video on Essure<span style="font-family:times new roman;font-size:13px;">&reg;</span> permanent birth control.</p>
+<p style="margin-top: 0; margin-bottom: 0;"><a href="../media/Essure_English.wmv" target="_blank">View video using Windows<span style="font-family:times new roman;font-size:13px;">&reg;</span> Media Player.</a></p>
+<p style="margin-top: 0;"><a href="../media/Essure_English.mov" target="_blank">View video using QuickTime Player.</a> </p>
+<p style="margin-bottom: 0;">&nbsp;</p>
+<p style="margin-top: 0;"><span class="header"><strong><strong><a name="links"></a></strong>HELPFUL LINKS</strong></span></p>
+<p><a href="http://www.novasure.com"><img src="../images/NovasureButton.jpg" width="221" height="62" border="0"></a></p>
+<p><a href="http://www.onlinesurgery.com" target="_blank">OnlineSurgery.com - Vaginal rejuvenation</a> </p>
+<p style="margin-bottom: 0"><a href="publications/QuestionsandAnswersAboutHerOption.pdf" target="_blank">Her Option - Questions &amp; Answers</a> </p>
+<p align="left" class="header"><strong><a name="satpat"></a>SATISFIED PATIENTS </strong></p>
+<p ><a href="publications/LettertoDRZ.pdf" target="_blank">Thank you so very much for giving me back QUALITY OF LIFE! -Brijett</a> </p>
+<p style="margin-top: 0" >&nbsp;</p>
+      </td>
+      <td height="416"></td>
+  </tr>
+	<tr>
+	  <td rowspan="3" align="center" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" background="../images/right_side_exp.gif">
+	    <!--DWLayoutTable-->
+	    <tr>
+	      <td width="216" height="79" align="center" valign="top"><!--DWLayoutEmptyCell-->&nbsp;</td>
+        </tr>
+	    <tr>
+	      <td height="458"></td>
+        </tr>
+      </table></td>
+      <td height="476"></td>
+  </tr>
+	<tr>
+		<td height="1" valign="top">
+	      <img src="../images/grey_spcr.gif" width="621" height="1" alt=""></td>
+      <td></td>
+	</tr>
+	<tr>
+	  <td height="60" valign="top" class="innercontact">
+	  	<div align="left">John Zavaleta R.Ph.,M.D.,<br>
+        F.A.C.O.G., Board certified<br>
+      <a href="mailto:info@lascolinasobgyn.com" class="contactlink">info@lascolinasobgyn.com</a>	    </div></td>
+      <td></td>
+  </tr>
+	<tr>
+	  <td valign="top"><!-- #BeginLibraryItem "/Library/footer.lbi" --><p align="center" class="body"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><span class="small"><br>
+        <br>
+        </span><span class="medium">[<a href="index_English.html">Home</a>] 
+        [<a href="about.html">About Us</a>] 
+        [<a href="services.html">Services</a>] 
+        [<a href="new_patient.html">New Patient</a>] 
+        [<a href="../Library/facilities.html">Facilities</a>] [<a href="referrals.html">Referrals</a>] [<a href="resources.html">Resources</a>] 
+        [<a href="contact.html">Contact Us</a>] </span></font></p>
+<p align="center" class="body"><em><font size="1" face="Verdana, Arial, Helvetica, sans-serif">The information provided by Las Colinas ObGyn and Dr. John J. Zavaleta, M.D. is for informational purposes only. <br>
+  As each woman is unique, do not rely on this information for 
+diagnosis and treatment. <br>
+We cannot guarantee the accuracy of the content and advise that you see a qualified Health Care Professional for individual needs and care. </font></em></p>
+<p align="center" class="body"><span class="medium"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">&copy; Copyright Las Colinas ObGyn. 2006. All rights reserved.<br>
+        Website Design &amp; Development: <a href="http://www.clear-message.com/" target="_blank">Clear Message Communications</a></font></span><span class="small"></span></p><!-- #EndLibraryItem --><p align="center" class="body"><span class="small"><br>
+          </span></p></td>
+      <td height="184">&nbsp;</td>
+      <td></td>
+  </tr>
+</table>
+<!-- End ImageReady Slices -->
+</body>
+</html>

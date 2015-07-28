@@ -1,0 +1,60 @@
+section 
+{
+	font-family: Georgia, serif;
+	margin-top: 10px;
+	padding: 0px 10px 0px 30px;
+	position:relative;
+	height: auto; 
+	width: 600px; 
+	float: left;
+	
+	
+	
+}
+section img 
+{
+	float:right;
+	border: 1px solid black;
+	margin: 5px 5px 5px 10px;
+	
+}
+aside 
+{
+	margin-top: 10px; 
+	position: relative;
+	width:300px; 
+	float:right;
+	padding-right:20px;
+	border-left: 2px solid #FF8C00;
+	border-right:0px;
+	
+}
+section ul {
+	list-style-type:none;
+	margin-left: -40px;
+	cursor:pointer;
+}
+section ul li {
+	margin-bottom: 20px;
+	color: #FF8C00;
+	font-weight: bold;
+}
+section ul li a{
+	text-decoration:none;
+	color: #FF8C00;
+}
+section div {
+	display:none;
+	margin-bottom:20px;
+	font-size: 80%;
+}
+section div a {
+	display:block;
+	margin-bottom:10px;
+	
+}
+#videos
+{
+	margin-left:-30px;
+	width:600px;
+}

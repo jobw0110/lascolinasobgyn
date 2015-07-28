@@ -1,0 +1,34 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Welcome to Las Colinas ObGyn</title>
+<link href="lascolinasobgyn.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <!--DWLayoutTable-->
+  <tr>
+    <td height="401" colspan="3" valign="top"><img src="images/intro_main.jpg" width="800" height="401"></td>
+  </tr>
+  <tr>
+    <td height="10" colspan="2" valign="top"><img src="images/spacer.gif" width="505" height="10"></td>
+    <td width="295" rowspan="2" valign="top"><img src="images/intro_enter.jpg" width="295" height="199" border="0" usemap="#Map"></td>
+  </tr>
+  <tr>
+    <td width="195" height="189" valign="top"><img src="images/spacer.gif" width="195" height="189"></td>
+    <td width="310" valign="top"><p class="contact_main">3501 N. MacArthur Blvd.<br>
+      Suite 350<br>
+      Irving, Texas 75062<br>
+      (972) 257-5300<br>
+      <a href="mailto:info@lascolinasobgyn.com">info@lascolinasobgyn.com</a></p>
+    </td>
+  </tr>
+</table>
+<map name="Map">
+  <area shape="rect" coords="13,27,111,51" href="English/index_English.html">
+</map>
+</body>
+</html>

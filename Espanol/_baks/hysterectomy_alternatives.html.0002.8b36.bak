@@ -1,0 +1,146 @@
+<html>
+<head>
+<title>Las Colinas OBGYN - Services for Women's Health and Wellness</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+#dropdown {
+	position:absolute;
+	left:97px;
+	top:107px;
+	width:73px;
+	height:16px;
+	z-index:3;
+	visibility: hidden;
+}
+#navbar {
+	position:relative;
+	z-index:2;
+}
+
+#hide {
+	position:absolute;
+	left:80px;
+	top:86px;
+	width:290px;
+	height:430px;
+	z-index:1;
+	visibility: hidden;
+}
+-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+//-->
+</script>
+<link href="../lascolinasobgyn.css" rel="stylesheet" type="text/css">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('../images/ob_ovr_ES.GIF','../images/gen_ovr_ES.GIF','../images/off_ovr_ES.GIF','../images/in_aboutovr_ES.gif','../images/in_servicesovr_ES.gif','../images/in_newovr_ES.gif','../images/in_facilitiesovr_ES.gif','../images/in_referralsovr_ES.gif','../images/in_resourcesovr_ES.gif','../images/in_contactovr_ES.gif','../images/subovr_01_ES.GIF','../images/subovr_02_ES.GIF','../images/subovr_03_ES.GIF','../images/subovr_04_ES.GIF','../images/subovr_05_ES.GIF','../images/subovr_06_ES.GIF','../images/subovr_07_ES.GIF','../images/subovr_08_ES.GIF','../images/subovr_09_ES.GIF','../images/subovr_10_ES.GIF','../images/subovr_11_ES.GIF','../images/subovr_12_ES.GIF','../images/subovr_13_ES.GIF','../images/subovr_15_ES.GIF','../images/subovr_16_ES.GIF','../images/subovr_17_ES.GIF','../images/subovr_18_ES.GIF','../images/subovr_19_ES.GIF','../images/in_about_ES.gif','../images/in_services_ES.gif')">
+<!-- ImageReady Slices (DrZWebsiteInside2.psd) -->
+<div id="dropdown"><a href="../Espanol/obstetrics.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image32','','../images/subovr_01_ES.GIF',1)"><img src="../images/subup_01_ES.GIF" alt="Obstetrics" name="Image32" width="210" height="19" border="0"></a><a href="../Espanol/general_gynecology.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image33','','../images/subovr_02_ES.GIF',1)"><img src="../images/subup_02_ES.GIF" alt="General Gynecology" name="Image33" width="210" height="16" border="0"></a><a href="../Espanol/office_hysteroscopy.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image34','','../images/subovr_03_ES.GIF',1)"><img src="../images/subup_03_ES.GIF" alt="Office Hysteroscopy" name="Image34" width="210" height="16" border="0"></a><a href="../Espanol/sono_hysteroscopy.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image31','','../images/subovr_04_ES.GIF',1)"><img src="../images/subup_04_ES.GIF" alt="Sono Hysteroscopy" name="Image31" width="210" height="16" border="0"></a><a href="../Espanol/hysteroscopic_sterilization.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image35','','../images/subovr_05_ES.GIF',1)"><img src="../images/subup_05_ES.GIF" alt="Hysteroscopic Sterilization" name="Image35" width="210" height="16" border="0"></a><a href="../Espanol/endometrial_ablation.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image36','','../images/subovr_06_ES.GIF',1)"><img src="../images/subup_06_ES.GIF" alt="Endometrial Ablation" name="Image36" width="210" height="16" border="0"></a><a href="../Espanol/urinary_incontinence.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image37','','../images/subovr_07_ES.GIF',1)"><img src="../images/subup_07_ES.GIF" alt="Urinary Incontinence" name="Image37" width="210" height="16" border="0"></a><a href="../Espanol/anal_incontinence.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image38','','../images/subovr_08_ES.GIF',1)"><img src="../images/subup_08_ES.GIF" alt="Anal Incontinence" name="Image38" width="210" height="16" border="0"></a><a href="../Espanol/anal_sonography.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image46','','../images/subovr_09_ES.GIF',1)"><img src="../images/subup_09_ES.GIF" alt="Anal Sonography" name="Image46" width="210" height="16" border="0"></a><a href="../Espanol/pelvic_and_abdominal_ultrasonography.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image47','','../images/subovr_10_ES.GIF',1)"><img src="../images/subup_10_ES.GIF" alt="Pelvic and Abdominal Ultrasonography" name="Image47" width="210" height="32" border="0"></a><a href="../Espanol/laser_for_cervix.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image48','','../images/subovr_11_ES.GIF',1)"><img src="../images/subup_11_ES.GIF" alt="Laser for Cervix and Veneral Warts" name="Image48" width="210" height="32" border="0"></a><a href="../Espanol/loop_electrosurgery.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image49','','../images/subovr_12_ES.GIF',1)"><img src="../images/subup_12_ES.GIF" alt="Loop Electrosurgery" name="Image49" width="210" height="16" border="0"></a><a href="../Espanol/evaluation_of_abnormal.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image50','','../images/subovr_13_ES.GIF',1)"><img src="../images/subup_13_ES.GIF" alt="Evaluation of Abnormal Bleeding" name="Image50" width="210" height="32" border="0"></a><a href="../Espanol/vaginal_reconstruction.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image51','','../images/subovr_15_ES.GIF',1)"><img src="../images/subup_14_ES.GIF" alt="Vaginal Reconstruction" name="Image51" width="210" height="16" border="0"></a><a href="../Espanol/constipation.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image52','','../images/subovr_16_ES.GIF',1)"><img src="../images/subup_15_ES.GIF" alt="Constipation, Lower Back Pain and Sexual Dysfunction" name="Image52" width="210" height="32" border="0"></a><a href="../Espanol/biofeedback.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image53','','../images/subovr_17_ES.GIF',1)"><img src="../images/subup_16_ES.GIF" alt="Biofeedback and Physical Therapy" name="Image53" width="210" height="32" border="0"></a><a href="../Espanol/endometrial_and_interstitial_cystitis.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image54','','../images/subovr_18_ES.GIF',1)"><img src="../images/subup_17_ES.GIF" alt="Endometriosis and Interstitial Cystitis" name="Image54" width="210" height="32" border="0"></a><a href="../Espanol/hysterectomy_alternatives.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image55','','../images/subovr_19_ES.GIF',1)"><img src="../images/subup_18_ES.GIF" alt="Hysterectomy Alternatives" name="Image55" width="210" height="20" border="0"></a></div>
+<div id="hide"><a href="javascript:;" onMouseOver="MM_showHideLayers('dropdown','','hide','hide','','hide')"><img src="../images/transparent.gif" width="291" height="431" border="0"></a></div>
+
+<table id="Table_01" width="838" height="560" border="0" cellpadding="0" cellspacing="0">
+  <!--DWLayoutTable-->
+	<tr>
+		<td height="89" colspan="2">
+			<a href="index_Espanol.html">
+				<img src="../images/banner_int.gif" width="837" height="89" border="0" alt="Banner"></a></td>
+        <td width="1"></td>
+	</tr>
+	<tr>
+		<td width="621" height="19" valign="top" ><div id="navbar"><img src="../images/navspacer_01.gif" width="24" height="18" alt=""><a href="../Espanol/about.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image39','','../images/in_aboutovr_ES.gif',1);MM_showHideLayers('dropdown','','hide','hide','','hide')"><img src="../images/in_about_ES.gif" alt="About Us" name="Image39" width="73" height="18" border="0"></a><a href="../Espanol/services.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image40','','../images/in_servicesovr_ES.gif',1);MM_showHideLayers('dropdown','','show','hide','','show')"><img src="../images/in_servicesovr_ES.gif" alt="Services" name="Image40" width="73" height="18" border="0"></a><a href="../Espanol/new_patient.html" onMouseOver="MM_swapImage('Image41','','../images/in_newovr_ES.gif',1);MM_showHideLayers('dropdown','','hide','hide','','hide')" onMouseOut="MM_swapImgRestore()"><img src="../images/in_new_ES.gif" alt="New Patients" name="Image41" width="105" height="18" border="0"></a><a href="../Espanol/facilities.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image42','','../images/in_facilitiesovr_ES.gif',1);MM_showHideLayers('dropdown','','hide','hide','','hide')"><img src="../images/in_facilities_ES.gif" alt="Facilities" name="Image42" width="81" height="18" border="0"></a><a href="../Espanol/referrals.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image43','','../images/in_referralsovr_ES.gif',1)"><img src="../images/in_referrals_ES.gif" alt="Referrals" name="Image43" width="85" height="18" border="0"></a><a href="../Espanol/resources.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image44','','../images/in_resourcesovr_ES.gif',1)"><img src="../images/in_resources_ES.gif" alt="Resources" name="Image44" width="86" height="18" border="0"></a><a href="../Espanol/contact.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image45','','../images/in_contactovr_ES.gif',1)"><img src="../images/in_contact_ES.gif" alt="Contact Us" name="Image45" width="94" height="18" border="0"></a></div></td>
+		<td width="216" rowspan="2" valign="top">
+			<a href="http://www.americanmedicalsystems.com" target="_blank">
+		<img src="../images/ams_image.gif" width="216" border="0" alt="American Medical Systems"></a></td>
+        <td></td>
+	</tr>
+	<tr>
+	  <td rowspan="2" class="innerbodystyle">
+		  <p align="left" class="header"><img src="../images/image_02.gif" alt="Image 2" align="right" class="images"><strong>SERVICIOS - ALTERNATIVAS EN HISTERECTOMIA </strong></p>
+            <p >            Si los per&iacute;odos pesados interfieren con tu vida diaria, no est&aacute;s sola. </p>
+            <p >&iquest;Sab&iacute;as que una de cada cinco mujeres sufre de per&iacute;odos pesados? Esto puede afectar emocionalmente y f&iacute;sicamente, haciendo que muchas mujeres limiten sus actividades y estilos de vida. </p>
+            <p >Hay muchas opciones disponibles, incluyendo terapia con medicamento, tratamientos con una intrusi&oacute;n m&iacute;nima, o una histerectom&iacute;a. <a href="http://www.americanmedicalsystems.com/female_conditions_treatments_detail_objectname_womens_emb.html" target="_blank">Terapia por el AMS Her Option&reg; Cryoablation Therapy from AMS</a> o el sistema de <a href="http://www.novasure.com/" target="_blank">Novasure&reg; System from Cytyc Surgical Products Division</a>, son dos opciones para las mujeres que sufren de per&iacute;odos pesados y que est&aacute;n buscando un alternativa a la histerectom&iacute;a. </p>
+            <p >Ambas opciones se pueden realizar en nuestro consultorio. La mayor&iacute;a de los pacientes encuentran el procedimiento relativamente sin dolor. Si quisieras descubrir m&aacute;s, por favor <a href="contact.html">CONTACTANOS</a> para una consulta. </p>
+      </td>
+      <td height="416"></td>
+	</tr>
+	<tr>
+	  <td rowspan="3" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" background="../images/right_side_exp.gif">
+	    <!--DWLayoutTable-->
+	    <tr>
+	      <td width="216" height="96">&nbsp;</td>
+        </tr>
+      </table></td>
+      <td height="35"></td>
+  </tr>
+	<tr>
+		<td height="1" valign="top">
+	      <img src="../images/grey_spcr.gif" width="621" height="1" alt=""></td>
+        <td></td>
+	</tr>
+	<tr>
+	  <td height="60" valign="top" class="innercontact">
+	  	<div align="left">John Zavaleta R.Ph.,M.D.,<br>
+        F.A.C.O.G., Board certified<br>
+      <a href="mailto:info@lascolinasobgyn.com" class="contactlink">info@lascolinasobgyn.com</a>	    </div></td>
+      <td></td>
+  </tr>
+	<tr>
+	  <td height="117" valign="top"><!-- #BeginLibraryItem "/Library/footer_espanol.lbi" -->
+	    <p align="center" class="body"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><span class="small"><br>
+                <br>
+          </span><span class="medium">[<a href="index_Espanol.html">Home</a>] [<a href="about.html">Quienes Somos]</a> [<a href="services.html">Servicios</a>] [<a href="new_patient.html">Nuevos Pacientes</a>] [<a href="facilities.html">Instalaciones</a>] [<a href="referrals.html">Referencias</a>] [<a href="resources.html">Recursos</a>] [<a href="contact.html">Cont&aacute;ctanos</a>] </span></font></p>
+	    <p align="center" class="body"><em><font size="1" face="Verdana, Arial, Helvetica, sans-serif">The information provided by Las Colinas ObGyn and Dr. John J. Zavaleta, M.D. is for informational purposes only. <br>
+  As each woman is unique, do not rely on this information for diagnosis and treatment. <br>
+  We cannot guarantee the accuracy of the content and advise that you see a qualified Health Care Professional for individual needs and care. </font></em></p>
+	    <p align="center" class="body"><span class="medium"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">&copy; Copyright Las Colinas ObGyn. 2006. All rights reserved.<br>
+  Website Design &amp; Development: <a href="http://www.clear-message.com/" target="_blank">Clear Message Communications</a></font></span><span class="small"></span></p>
+	  <!-- #EndLibraryItem -->	    <p align="center" class="body"><span class="small"><br>
+      </span></p></td>
+  <td>&nbsp;</td>
+  <td></td>
+  </tr>
+</table>
+<!-- End ImageReady Slices -->
+</body>
+</html>

@@ -1,0 +1,40 @@
+section 
+{
+	font-family: Georgia, serif;
+	margin-top: 10px;
+	padding: 0px 10px 0px 30px;
+	position:relative;
+	height: auto; 
+	width: 600px; 
+	float: left;
+	
+	
+	
+}
+section img 
+{
+	float:right;
+	border: 1px solid black;
+	margin: 5px 5px 5px 10px;
+	
+}
+aside 
+{
+	margin-top: 10px; 
+	position: relative;
+	width:300px; 
+	float:right;
+	padding-right:20px;
+	
+}
+h3 { cursor:pointer;}
+section div {display:none;}
+section div ul 
+{
+	list-style-type:none;
+	margin-left:-40px;
+}
+section div li
+{
+	padding:10px 0;
+}

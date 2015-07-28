@@ -1,0 +1,45 @@
+section 
+{
+	font-family: Georgia, serif;
+	margin-top: 10px;
+	padding: 10px 10px 0px 30px;
+	position:relative;
+	height: auto; 
+	width: 600px; 
+	float: left;
+	border-right: 2px solid #FF8C00;
+	
+	
+}
+aside 
+{
+	margin-top: 10px; 
+	position: relative;
+	width:300px; 
+	float:right;
+	padding-right:20px;
+	border:0;
+	
+}
+section div {
+	display: none;
+}
+h2 {
+	font-size: 120%;
+	padding: .25em 0 .25em 25px;
+	cursor: pointer;
+	background: url(../images/plus.png) no-repeat left center;
+}
+h2.minus {
+	background: url(../images/minus.png) no-repeat left center;
+}
+section div p {
+
+	padding-left:30px;
+}
+section img {
+
+	float:right;
+	border: 1px solid black;
+	margin: 20px 10px 10px 10px;
+}
