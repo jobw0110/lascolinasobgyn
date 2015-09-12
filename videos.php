@@ -19,11 +19,13 @@
 <h1>Videos</h1>
 <section>
 	<img src="images/services.jpg">
+	<h3>General Health</h3>
 	<ul>
 		<li><a href="https://www.youtube.com/watch?v=2r2dsAt5Okw" target="_blank">Pelvic Muscle Exercises</a></li>
 		<li><a href="https://www.youtube.com/watch?v=B9FTDqDA_oU" target="_blank">Best Foods for a Woman's Body</a></li>
 		<li><a href="https://www.youtube.com/watch?v=nvrParR4D_Q" target="_blank">Top 10 fitness tips for women</a></li>
 		<li><a href="https://www.youtube.com/watch?v=nciY-A9Vzkw" target="_blank">Liz's Story - Stress Urinary Incontinence - Obtryx™ Mid-Urethral Sling Procedure</a></li>
+		<li><a href="https://www.youtube.com/watch?v=y4PD-3dE5jU" target="_blank">Everything You Need to Know About Gluten</a></li>
 	</ul>
 	<h3>Flouride</h3>
 	<ul style="padding-left:60px;list-style:square;">

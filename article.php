@@ -9,9 +9,11 @@
 	
 	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" ></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
 		
 	<script src="js/superfish.js"></script>
 	<script src="js/menu.js"></script>
+	<script src="js/articlesApp.js"></script>
 	<script>
 		$(document).ready(function() {
 			$("section li").click(function(){
@@ -51,13 +53,64 @@
 	</script> 
 </head>
 <?php $spanish = "espanol_article.php"; ?>
-<body>
+<body ng-app="articlesApp" ng-controller="articlesCtrl">
 <?php include("header.php"); ?>
-<h1>Article Lounge</h1>
+<h1>Article Lounge<span style="float:right;padding-right:20px;">
+	<form name="searchForm" ng-submit="search()">
+		<input type="search" id="search" name="search" ng-change="search()" ng-model="search_str"/>
+		<input type="submit" value="Search"></form></span></h1>
+	
 <section>
 	<img src="images/article.jpg">
 	<p>You can count on Las Colinas OB/GYN to keep you informed! Check back frequently for News, Events, and Published Work from our associates. </p>
+	<p style="color:red">{{search_message}}</p>
 	<ul>
+		<li>General Gynecology</li>
+		<div>
+			<a ng-repeat="x in articles | filter:'General Gynecology'" href="{{x.href}}" target="_blank">{{x.title}}</a>
+		</div>
+		<li>Birth Control</li>
+		<div>
+			<a ng-repeat="x in articles | filter:'Birth Control'" href="{{x.href}}" target="_blank">{{x.title}}</a>
+		</div>
+		<li>Bladder Disorders</li>
+		<div>
+			<a ng-repeat="x in articles | filter:'Bladder Disorders'" href="{{x.href}}" target="_blank">{{x.title}}</a>
+		</div>
+		<li>Endometrial Ablation</li>
+		<div>
+			<a ng-repeat="x in articles | filter:'Endometrial Ablation'" href="{{x.href}}" target="_blank">{{x.title}}</a>
+		</div>
+		<li>General Health</li>
+		<div>
+			<a ng-repeat="x in articles | filter:'General Health'" href="{{x.href}}" target="_blank">{{x.title}}</a>
+		</div>
+		<li>Menopause</li>
+		<div>
+			<a ng-repeat="x in articles | filter:'Menopause'" href="{{x.href}}" target="_blank">{{x.title}}</a>
+		</div>
+		<li>Obstetrics</li>
+		<div>
+			<a ng-repeat="x in articles | filter:'Obstetrics'" href="{{x.href}}" target="_blank">{{x.title}}</a>
+		</div>
+		<li>Pelvic Organ Prolapse</li>
+		<div>
+			<a ng-repeat="x in articles | filter:'Pelvic Organ Prolapse'" href="{{x.href}}" target="_blank">{{x.title}}</a>
+		</div>
+		<li>Pelvic Pain</li>
+		<div>
+			<a ng-repeat="x in articles | filter:'Pelvic Pain'" href="{{x.href}}" target="_blank">{{x.title}}</a>
+		</div>
+		<li>Sexual Health</li>
+		<div>
+			<a ng-repeat="x in articles | filter:'Sexual Health'" href="{{x.href}}" target="_blank">{{x.title}}</a>
+		</div>
+		<li>Thyroid</li>
+		<div>
+			<a ng-repeat="x in articles | filter:'Thyroid'" href="{{x.href}}" target="_blank">{{x.title}}</a>
+		</div>
+	</ul>
+	<!-- <ul>
 		<li>General Gynecology</li>
 		<div>
 			<a href="English/publications/PMR.pdf" target="_blank">Pelvic Muscle Rehab</a>
@@ -161,7 +214,7 @@
 			<a href="http://www.thealternativedaily.com/coconut-oil-thyroid/?utm_source=internal&utm_medium=email&utm_campaign=N150518" target="_blank">The Coconut & Thyroid Connection: How This Tropical Nut Supports Healthy Thyroid Function</a>
 		</div>
 		</div>
-	</ul>
+	</ul> -->
 <!--	<h1 id="videos">Videos</h1>
 	<ul>
 		<li><a href="https://www.youtube.com/watch?v=2r2dsAt5Okw" target="_blank">Pelvic Muscle Exercises</a></li>
